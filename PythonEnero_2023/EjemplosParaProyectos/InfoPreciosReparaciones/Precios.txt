@@ -1,0 +1,3 @@
+iphone7,modulo:10,bateria:15,tapa:20
+iphone8,modulo:10,bateria:20,tapa:21
+iphone9,modulo:20,bateria:20,tapa:30
